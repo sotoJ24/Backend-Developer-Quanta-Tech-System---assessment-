@@ -6,9 +6,11 @@ const expressWs = require('express-ws');
 const http = require ('http');
 const path = require('path');
 var port = process.env.PORT || 7645;
+var tokenRoute = require('./routes/token');
 
 var transactionRoute = require('./routes/transactions');
 
+app.use('/token', tokenRoute);
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
