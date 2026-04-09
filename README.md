@@ -1,3 +1,10 @@
+# Results
+
+<img width="1366" height="768" alt="Screenshot from 2026-04-08 18-16-55" src="https://github.com/user-attachments/assets/2a42fdb7-ef12-409b-b83c-bae553c283e7" />
+<img width="1280" height="708" alt="1775686387814" src="https://github.com/user-attachments/assets/a2271a03-0035-4cf7-b73e-67ab4eab8584" />
+
+
+
 # Getting Started - NFT Campaign Platform
 
 ## Prerequisites
